@@ -1,0 +1,31 @@
+.box4, .box3, .box2, .box1t, .box1h {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 20px;
+  margin: 20px;
+}
+
+.box1h {
+  font-size: 28px;
+  border: 1px solid black;
+  background-color: #eef591;
+}
+
+.box1t {
+  background-color: #f8b8b8;
+}
+
+.box2 {
+  background-color: #f0b342;
+}
+
+.box3 {
+  background-color: #9febce;
+}
+
+.box4 {
+  background-color: #833ce0;
+}
+
+/*# sourceMappingURL=inherit.css.map */
